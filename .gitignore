@@ -19,4 +19,4 @@ backend/input.doc
 backend/input.docx
 backend/input.pdf
 *.pdf
-!backend/original_forms/*.pdf
+backend/original_forms/
