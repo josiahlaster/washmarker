@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.env.local
+
+# App specific
+*.tmp.pdf
+backend/output.pdf
+backend/input.doc
+backend/input.docx
+backend/input.pdf
+*.pdf
+!backend/original_forms/*.pdf
